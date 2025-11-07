@@ -1,4 +1,4 @@
-package com.jassgroup.agents
+package com.jassgrouptics.agents
 
 import org.junit.Test
 

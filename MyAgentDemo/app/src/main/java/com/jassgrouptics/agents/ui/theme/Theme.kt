@@ -1,4 +1,4 @@
-package com.jassgroup.agents.ui.theme
+package com.jassgrouptics.agents.ui.theme
 
 import android.app.Activity
 import android.os.Build

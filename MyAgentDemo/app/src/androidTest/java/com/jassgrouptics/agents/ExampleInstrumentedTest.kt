@@ -1,4 +1,4 @@
-package com.jassgroup.agents
+package com.jassgrouptics.agents
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
